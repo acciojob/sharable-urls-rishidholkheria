@@ -1,1 +1,16 @@
-
+form{
+	display: flex;
+	flex-direction: column
+}
+input{
+	width: 30vw;
+	padding: 3px;
+}
+button{
+	width: 10vw;
+	padding: 5px;
+	margin-top: 15px;
+	background-color: white;
+	border-radius: 3px;
+	border: 1px solid gray;
+}
